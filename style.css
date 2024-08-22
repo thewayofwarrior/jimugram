@@ -1,0 +1,40 @@
+.body{background-color: rgb(45, 43, 43);
+height: 100vw;
+display: flex;
+justify-content: center;}
+
+.content{border: 1px rgb(241, 236, 236) solid;
+    background-color: #000;
+height: 300px;
+width: 400px;
+border-radius: 5px;
+margin-top: 100px;}  
+
+.line{display: flex;
+justify-content: center;
+}
+
+.user{height: 30px;
+    font-size: 20px;
+    color: black;
+    width: 300px;
+    border: 2px solid rgb(255, 253, 253);
+    margin: 20px;
+    border-radius: 30px;
+    text-align: center;
+    font-family:cursive;
+}
+
+    .button{
+        height: 36px;
+        border-radius: 20px;
+        width: 120px;  
+        font-size: 18px;
+        border: 2px solid rgb(12, 5, 5);
+        font-family: cursive, Geneva, Tahoma, sans-serif;
+        padding-bottom: 0px;
+        
+    }
+.button:hover{background-color: rgb(13, 12, 11);
+color: white;}
+
