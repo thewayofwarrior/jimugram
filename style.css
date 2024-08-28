@@ -1,4 +1,4 @@
-body{background-color: pink;
+.body{background-color:  rgb(234, 127, 190);
 height: 100vw;
 display: flex;
 justify-content: center;}
